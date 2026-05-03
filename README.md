@@ -1,3 +1,5 @@
-# Git_with_Nexign 
-“ç¥¡­ë© ¯à®¥ªâ ¯® Git ¨ GitHub 
-shuboderova_Github_interaction
+# Git\_with\_Nexign
+
+Студентка Шубодерова Полина
+shuboderova\_Github\_interaction
+
